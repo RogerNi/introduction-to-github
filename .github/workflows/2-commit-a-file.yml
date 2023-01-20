@@ -47,3 +47,4 @@ jobs:
           from_step: 2
           to_step: 3
           branch_name: my-first-branch
+          base_branch_name: main
